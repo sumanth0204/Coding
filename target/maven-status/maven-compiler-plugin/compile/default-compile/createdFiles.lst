@@ -1,0 +1,14 @@
+com\inventory\constants\ExceptionMessages.class
+com\inventory\entities\MessageQueue.class
+com\inventory\service\InventoryService.class
+com\inventory\commandprocessor\CommandParser.class
+com\inventory\entities\Item.class
+com\inventory\app\Application.class
+com\inventory\constants\InventoryConstants.class
+com\inventory\datasource\DAOService.class
+com\inventory\reports\Report.class
+com\inventory\app\Application$1.class
+com\inventory\commandprocessor\CommandListener$1.class
+com\inventory\datasource\DBAccess.class
+com\inventory\commandprocessor\CommandListener.class
+com\inventory\datasource\InventoryStore.class

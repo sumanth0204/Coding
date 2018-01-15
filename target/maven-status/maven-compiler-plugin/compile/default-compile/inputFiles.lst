@@ -1,0 +1,12 @@
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\constants\ExceptionMessages.java
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\app\Application.java
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\constants\InventoryConstants.java
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\reports\Report.java
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\datasource\DBAccess.java
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\service\InventoryService.java
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\commandprocessor\CommandListener.java
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\commandprocessor\CommandParser.java
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\datasource\DAOService.java
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\datasource\InventoryStore.java
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\entities\Item.java
+C:\workspaces\workspace1\InventoryManagement\src\com\inventory\entities\MessageQueue.java
